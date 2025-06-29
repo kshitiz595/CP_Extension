@@ -19,9 +19,11 @@ To help the users brush up on the Data science algorithms, a Leetcode random fea
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Test Chrome Extension
+Clone the repository by running command in your terminal
+git clone https://github.com/kshitiz595/CP_Extension.git
 
 To test, go to chrome://extensions, enable Developer mode and load the app as an unpacked extension.
-
+See the app in the extensions list of chrome and pin the app.
 Need more information about Chrome Extension? Please visit [Google Chrome Extension Development](http://developer.chrome.com/extensions/devguide.html)
 
 
